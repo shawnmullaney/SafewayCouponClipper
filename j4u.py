@@ -18,8 +18,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.common.exceptions import WebDriverException
 
 
-usernameStr = 'shawnmullaney@hotmail.com'
-passwordStr = 'poopoo11'
+usernameStr = 'email'
+passwordStr = 'password'
 ##
 chrome_options = Options()  
 #chrome_options.add_argument("--headless")
